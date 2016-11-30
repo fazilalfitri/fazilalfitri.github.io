@@ -1,0 +1,42 @@
+#header {
+    background: url('../images/fazil1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    margin: 0;
+    padding: 200px 0 260px 0;
+
+
+}
+
+#about {
+  background-color: #FFF;
+  height: 500px;
+  margin: 0;
+  padding: 60px 0 260px 0;
+  overflow: hidden;
+}
+
+h1 {
+  font-family: 'Abril Fatface';
+  font-size: 100px;
+  text-align: left;
+  font-style: bold;
+}
+
+h5 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  text-align: left;
+  font-style: italic;
+}
+
+h2 {
+  font-family: 'Abril Fatface';
+  text-align: center;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  text-align: justify;
+}
