@@ -18,7 +18,7 @@
 }
 
 #talks {
-  background: url('../images/fazil2.png');
+  background: url('../images/fazil3.jpg');
   background-repeat: no-repeat;
   height: 600px;
   margin: 0;
@@ -48,4 +48,9 @@ p {
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
   text-align: justify;
+}
+i {
+  font-family: 'Abril Fatface';
+  text-align: center;
+  font-size: 30px;
 }
