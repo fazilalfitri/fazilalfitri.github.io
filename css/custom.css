@@ -20,6 +20,7 @@
 #talks {
   background: url('../images/fazil3.jpg');
   background-repeat: no-repeat;
+  background-size: cover;
   height: 600px;
   margin: 0;
   padding: 0 0 260px 0;
