@@ -18,12 +18,12 @@
 }
 
 #talks {
-  background: url('../images/fazil3.jpg');
+  background: url('../images/fazil2.png');
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
   margin: 0;
-  padding: 0 0 260px 0;
+  padding: 200 0 260px 0;
   overflow: hidden;
 }
 
