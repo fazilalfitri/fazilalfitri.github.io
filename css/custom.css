@@ -6,7 +6,7 @@
     height: 100%;
     width:100%
     margin: 0px auto;
-    padding: 60px 0 260px 0;
+    padding: 200px 0 260px 0;
     overflow: hidden;
     position: relative;
 
@@ -62,7 +62,8 @@ footer {
 
 h1 {
   font-family: 'Abril Fatface';
-  font-size: 100px;
+  font-size: 70px;
+  position: relative;
   text-align: left;
   font-style: bold;
 }
