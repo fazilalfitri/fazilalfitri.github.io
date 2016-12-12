@@ -1,0 +1,90 @@
+@media (max-width:400px){
+
+  #header {
+    height:700px;
+  }
+
+  #about {
+    height:1000px;
+  }
+
+  #talks {
+    height:1000px;
+  }
+
+  #work {
+    height:1500px;
+  }
+
+  #gallery {
+    height:1200px;
+  }
+  #contact {
+    height:500px;
+  }
+
+}
+
+@media (min-width:401px)
+and (max-width:500px) {
+
+  #about {
+    height:1000px;
+  }
+  #work{
+    height: 1500px;
+  }
+  #gallery {
+    height: 1500px;
+  }
+}
+
+@media (min-width:501px)
+and (max-width:900px) {
+  #about {
+    height:1000px;
+  }
+  #work{
+    height: 1400px;
+  }
+  #gallery {
+    height: 1400px;
+  }
+
+}
+
+@media (min-width:901px)
+and (max-width:991px){
+  #about {
+    height:900px;
+  }
+  #work{
+    height: 1400px;
+  }
+  #gallery {
+    height: 900px;
+  }
+}
+
+@media (min-width:992px)
+and (max-width:1200px) {
+  #talks{
+    height: 1000px;
+  }
+  #gallery {
+    height:1000px;
+  }
+  #work{
+    height: 1400px;
+  }
+}
+
+@media (min-width:1201px) {
+  #gallery {
+    height:500px;
+  }
+}
+
+@media (device-height: 568px) and (device-width: 320px) and (webkit-min-device-pixel-ratio: 2) {
+  #about {}
+}
